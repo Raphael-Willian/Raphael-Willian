@@ -1,57 +1,32 @@
-# 👋 Olá, me chamo Raphael Willian!
+# Raphael Willian
 
-💻 Sou desenvolvedor Backend em formação, com foco em **Java** e **Spring Boot**.  
-🎯 Busco minha primeira oportunidade como desenvolvedor, criando projetos que simulam desafios reais do mercado.  
-📚 Atualmente aprofundando conhecimentos em APIs REST, arquitetura de sistemas e boas práticas de desenvolvimento.  
+Desenvolvedor Backend em formação, com foco em **Java** e **Spring Boot**.  
+Tenho como objetivo construir aplicações robustas, escaláveis e alinhadas com boas práticas de mercado.
 
----
-
-## 🚀 Tecnologias que estou estudando
-
-- ☕ Java
-- 🌱 Spring Boot
-- 🔐 Spring Security
-- 🗄️ SQL / Banco de Dados
-- 🌐 APIs REST
-- 🛠️ Git & GitHub
+Atualmente estudando:
+- Desenvolvimento de APIs REST
+- Spring Boot e Spring Security
+- Banco de dados SQL
+- Arquitetura de sistemas backend
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Tecnologias
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raphael-Willian&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Willian&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
+Java • Spring Boot • Spring Security • SQL • Git • GitHub
 
 ---
 
-## 🐍 Animação dos commits
+## Estatísticas
 
-<div align="center">
-
-![Snake animation](https://github.com/Raphael-Willian/Raphael-Willian/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## 📌 Objetivo
-
-💼 Me tornar um desenvolvedor backend profissional  
-🚀 Conseguir minha primeira oportunidade na área  
-📈 Evoluir constantemente com projetos práticos e código de qualidade  
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Raphael-Willian&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Willian&layout=compact&theme=default&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Como me encontrar
+## Contato
 
 - GitHub: https://github.com/Raphael-Willian
-- LinkedIn: (adicione aqui depois)
-
----
-
-⭐ Se gostou do meu perfil, não esqueça de deixar uma estrela nos repositórios!
+- LinkedIn: https://www.linkedin.com/in/raphael-willian-1a0657265/
