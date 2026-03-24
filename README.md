@@ -26,6 +26,10 @@ Java • Spring Boot • Spring Security • SQL • Git • GitHub
 
 ---
 
+<p align="center">
+  <img src="https://github.com/Raphael-Willian/Raphael-Willian/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ## Contato
 
 - GitHub: https://github.com/Raphael-Willian
