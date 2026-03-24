@@ -28,7 +28,7 @@ Java • Spring Boot • Spring Security • SQL • Git • GitHub
 ## Histórico de Commits
 
 <p align="center">
-  <img src="https://github.com/Raphael-Willian/Raphael-Willian/blob/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=purple" />
+  <img src="https://github.com/Raphael-Willian/Raphael-Willian/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ## Contato
