@@ -5,6 +5,7 @@ Tenho como objetivo construir aplicações robustas, escaláveis e alinhadas com
 
 Atualmente estudando:
 - Desenvolvimento de APIs REST
+- Desenvolvimento de APIs SOAP
 - Spring Boot e Spring Security
 - Banco de dados SQL
 - Arquitetura de sistemas backend
