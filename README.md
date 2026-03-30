@@ -15,7 +15,7 @@ Atualmente estudando:
 
 ## Tecnologias
 
-Java • Spring Boot • Spring Security • SQL • Git • GitHub
+Java • Spring Boot • Spring Security • Docker • Redis • PostgreSQL • SQL • Git • GitHub
 
 ---
 
