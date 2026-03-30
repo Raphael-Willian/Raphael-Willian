@@ -5,7 +5,7 @@ Tenho como objetivo construir aplicações robustas, escaláveis e alinhadas com
 
 Atualmente estudando:
 - Desenvolvimento de APIs REST
-- Conteinerização utilizando docker
+- Configuração de ambientes utilizando docker
 - Redis
 - Spring Boot e Spring Security
 - Banco de dados relacionais(PostgreSQL)
