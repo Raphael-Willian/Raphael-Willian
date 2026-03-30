@@ -8,7 +8,7 @@ Atualmente estudando:
 - Conteinerização utilizando docker
 - Redis
 - Spring Boot e Spring Security
-- Banco de dados SQL
+- Banco de dados relacionais(PostgreSQL)
 - Arquitetura de sistemas backend
 
 ---
@@ -22,8 +22,12 @@ Java • Spring Boot • Spring Security • SQL • Git • GitHub
 ## Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Raphael-Willian&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="160em" src="https://streak-stats.demolab.com?user=Raphael-Willian&theme=dark&hide_border=true" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-Willian&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raphael-Willian&bg_color=0d1117&color=8b949e&line=39d353&point=39d353&area=true&hide_border=true" />
 </p>
 
 ---
